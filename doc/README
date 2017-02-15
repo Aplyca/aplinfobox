@@ -1,0 +1,16 @@
+README
+======
+
+1. INFOBOX OPERATOR
+infobox is an operator that searches a given single object of a content type on the content branch that a node belongs to.
+
+infobox('<node_id>', '<class_identifier>')
+
+
+1. MULTI_INFOBOX OPERATOR
+infobox is an operator that searches a given multiobjects of a content type on the content branch that a node belongs to.
+
+multi_infobox('<node_id>', '<class_identifier>')
+
+
+
